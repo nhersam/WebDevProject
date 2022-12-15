@@ -1,0 +1,32 @@
+h1 {color: rgb(14, 15, 13);}
+
+h1{border:black;}
+
+body{font-family: Arial, Helvetica, sans-serif;}
+
+h1 {text-align: center;}
+
+body{text-align: center;}
+
+ol li {list-style-position: inside;}
+
+
+.image1{
+    position:absolute;
+    left: 5%;
+    top: 50%; 
+}
+
+.image2{
+    width: 3cm;
+    position: absolute;
+    right: 15%;
+    bottom: 10%
+    
+}
+
+.anchor{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
